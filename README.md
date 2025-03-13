@@ -18,3 +18,7 @@ Follow the prompts:
  	•	Enter your name.
 	•	Enter a number or a string.
 	•	The script will process the input accordingly.
+
+Group Members:
+- Elena Tamba
+- Elese Zukina
